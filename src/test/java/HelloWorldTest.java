@@ -5,11 +5,12 @@ public class HelloWorldTest {
 
     @Test
     public void test1() {
-        System.out.println("Hello world");
-        System.out.println("newB");
-        //j
-        Assert.assertEquals(1, 1);
-        //edited
-        //edited2
+
+        /**
+         * new commit1
+         *
+         *
+         *
+         */
     }
 }
