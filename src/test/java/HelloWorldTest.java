@@ -7,6 +7,7 @@ public class HelloWorldTest {
     public void test1() {
         System.out.println("Hello world");
         System.out.println("newB");
+        //j
         Assert.assertEquals(1, 1);
     }
 }
