@@ -13,6 +13,7 @@ public class HelloWorldTest {
          * new commit 4
          * new commit 5
          * new commit 6
+         * stash
          */
     }
 }
