@@ -18,5 +18,6 @@ public class HelloWorldTest {
          * target
          */
         System.out.println("qwe");
+        System.out.println("ewq");
     }
 }
