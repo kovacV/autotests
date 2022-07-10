@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: HelloWorldTest
+Test set: rest.HelloWorldTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.176 sec - in HelloWorldTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.179 sec - in rest.HelloWorldTest
