@@ -8,5 +8,6 @@ public class HelloWorldTest {
         System.out.println("Hello world");
         System.out.println("newB");
         Assert.assertEquals(1, 1);
+        //edited
     }
 }
